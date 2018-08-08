@@ -1,2 +1,2 @@
 # map-collab-client
-A map colloboration client
+A map collaboration client
